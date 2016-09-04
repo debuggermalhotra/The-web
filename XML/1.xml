@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> <!--defines the XML version and the character encoding used in the document-->
+<Homepets>
+  <Cat>Tiger</Cat>
+  <Dog>Fluffy</Dog>
+  <Hamster>Bobble</Hamster>
+  <Parrot>Twitter</Parrot>
+</Homepets>
+
+
+
+<!--Homepest is root element and all other elements(cat,dog,etc) are its child elements and dog,cat,etc are sibling 
+elements to each other-->
+
+<!--parrot is element name and twitter is element value-->

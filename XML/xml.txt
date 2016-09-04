@@ -1,0 +1,17 @@
+INTRO:
+1.stands for extensible/extendable markup language
+2.was designed to store, carry n exchange data
+3.not to display data
+
+USES:
+1.Can seperate data from HTML
+2.Is used to exchange data
+3.Can be used to share data
+4.Can be used to store data
+5.can make your data more useful
+6.can be used to create new *ML languages
+
+BASIC RULES:
+1.XML doc shall have header which tells that it is an XML doc, e.g. <?xml version="1.0" encoding="ISO-8859-1"?>
+2.XML doc shall have one and only one root element
+3.All XML elements must have closing tags
