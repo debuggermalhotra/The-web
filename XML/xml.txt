@@ -15,3 +15,9 @@ BASIC RULES:
 1.XML doc shall have header which tells that it is an XML doc, e.g. <?xml version="1.0" encoding="ISO-8859-1"?>
 2.XML doc shall have one and only one root element
 3.All XML elements must have closing tags
+
+RULES FOR ELEMENT NAMING:
+1.can contain letters,numbers, and other characters
+2.names must ot start with a number or punctuation character
+3.names must not start with the letters xml,XML,Xml,etc
+4.names can't contain spaces

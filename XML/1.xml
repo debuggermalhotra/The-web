@@ -8,7 +8,7 @@
 
 
 
-<!--Homepest is root element and all other elements(cat,dog,etc) are its child elements and dog,cat,etc are sibling 
+<!--Homepets is root element and all other elements(cat,dog,etc) are its child elements. Dog,cat,etc are sibling
 elements to each other-->
 
 <!--parrot is element name and twitter is element value-->
